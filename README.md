@@ -1,6 +1,6 @@
 ![Russmedia Logo](images/logo.png)
 
-## [Russmedia website](https://www.russmedia.com/)
+#### [Russmedia website](https://www.russmedia.com/)
 
 
 # Open source projects
@@ -9,6 +9,7 @@
 
 - [Microservices standards](https://github.com/russmedia/microservices-standards)
 
+---
 
 ### 2. Infrastructure modules
 
@@ -16,4 +17,4 @@
 
 - [Terraform pub/sub module](https://github.com/russmedia/terraform-google-pubsub)
 
-
+---
