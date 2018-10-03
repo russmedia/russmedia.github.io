@@ -5,9 +5,15 @@
 
 # Open source projects
 
-## 1. Infrastructure modules
+### 1. Guidelines
+
+- [Microservices standards](https://github.com/russmedia/microservices-standards)
+
+
+### 2. Infrastructure modules
 
 - [Terraform Kubernetes module](https://github.com/russmedia/terraform-google-kubernetes-cluster)
+
 - [Terraform pub/sub module](https://github.com/russmedia/terraform-google-pubsub)
 
 
