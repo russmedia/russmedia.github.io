@@ -17,4 +17,6 @@
 
 - [Terraform pub/sub module](https://github.com/russmedia/terraform-google-pubsub)
 
+- [Kubernetes monitoring with Prometheus & Grafana](https://github.com/russmedia/kubernetes-monitoring)
+
 ---
