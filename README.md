@@ -24,6 +24,6 @@
 
 - [TypeScript React Apollo](https://github.com/eversport/ts-react-apollo)
 
-- [generating code and type definitions from translations](https://github.com/eversport/intl-codegen)
+- [Generating code and type definitions from translations](https://github.com/eversport/intl-codegen)
 
-- [managing the state of components in a form](https://github.com/eversport/pyro-form)
+- [Managing the state of components in a form](https://github.com/eversport/pyro-form)
