@@ -21,6 +21,9 @@
 
 ---
 ### 3. Frontend
-- [intl-codegen](https://github.com/eversport/intl-codegen)
-- [pyro-form](https://github.com/eversport/pyro-form)
-- [ts-react-apollo](https://github.com/eversport/ts-react-apollo)
+
+- [TypeScript React Apollo](https://github.com/eversport/ts-react-apollo)
+
+- [generating code and type definitions from translations](https://github.com/eversport/intl-codegen)
+
+- [managing the state of components in a form](https://github.com/eversport/pyro-form)
