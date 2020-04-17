@@ -1,6 +1,6 @@
 ![Russmedia Logo](images/logo.png)
 
-#### [Russmedia website](https://www.russmedia.com/)
+#### [Russmedia website](https://russmediaequitypartners.com/)
 
 
 # Open source projects
@@ -17,9 +17,14 @@
 
 - [Terraform pub/sub module](https://github.com/russmedia/terraform-google-pubsub)
 
+- [Terraform GlusterFS module](https://github.com/erento/terraform-google-glusterfs)
+
 - [Kubernetes monitoring with Prometheus & Grafana](https://github.com/russmedia/kubernetes-monitoring)
 
+- [Elasticsearch setup on Kubernetes](https://github.com/erento/infra-elasticsearch)
+
 ---
+
 ### 3. Frontend
 
 - [TypeScript React Apollo](https://github.com/eversport/ts-react-apollo)
